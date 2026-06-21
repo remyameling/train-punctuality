@@ -14,3 +14,7 @@ wheels/
 
 # macOS
 .DS_Store
+
+# Local test data
+test/
+02/
