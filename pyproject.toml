@@ -1,0 +1,11 @@
+[project]
+name = "parse-nvod"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "lxml>=6.1.1",
+    "pymysql>=1.2.0",
+    "tqdm>=4.68.2",
+]
