@@ -18,3 +18,4 @@ wheels/
 # Local test data
 test/
 02/
+knmi/
