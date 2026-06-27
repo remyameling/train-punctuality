@@ -18,4 +18,7 @@ wheels/
 # Local test data
 test/
 02/
+
+# Environment variables (credentials)
+.env
 knmi/
